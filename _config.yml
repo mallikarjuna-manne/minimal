@@ -1,6 +1,23 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Mallikarjuna Manne </p>
+logo: /assets/img/logo_1.png
+
+description:
+  <p align="center">
+  <!--<a href="pdf/resume.pdf">Resume</a> |-->
+  <a href="https://www.linkedin.com/in/mallikarjuna-manne-45706ba5/">LinkedIn</a> |
+  <a href="https://github.com/mallikarjuna-manne">GitHub</a>
+  
+  <br>   
+  Experienced Data Scientist in System Analysis, Machine learning, Deep learning, Data Cleaning, and Data Pre-processing. 
+  Strong comprehension knowledge of systems, Passionate about Data science and technology. 
+  Flexible, independent and self-motivated. Flexible to Learn New technologies and Apply in Projects. 
+  Superior problem-solving abilities and strong analytical thinking. 
+  Ability to write high-performance code in Python, Queries in SQL & perform statistical analysis. Experienced in Computer Vision. 
+  Experienced in Applying Machine Learning techniques to Structured & Unstructured Data.   Experienced in implementing APIs. 
+  Experienced in implementing an Image recognition system and having a good understanding of design & architecture principles.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal

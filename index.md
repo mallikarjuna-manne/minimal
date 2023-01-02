@@ -22,6 +22,13 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
+### Boom Bikes Demand Prediction
+
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. The goal is to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mallikarjuna-manne/BoomBikesDemandPrediction)
+
+
 ---
 
 
